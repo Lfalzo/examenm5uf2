@@ -28,4 +28,14 @@ git add .
 git commit -m "archivo .gitignore"
 git push origin master
 -------------- VERSION 4 -----------------
+nano .gitignore
+borrar las lineas del ejecutable c#
+git add .
+git commit -m "modificacion .gitignore"
+git push origin master
+-------------- VERSION 5 -----------------
+git add .
+git commit -m "modificacion proyecto de c#"
+git push origin master
+-------------- VERSION 6 -----------------
 
