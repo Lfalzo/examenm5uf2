@@ -38,4 +38,10 @@ git add .
 git commit -m "modificacion proyecto de c#"
 git push origin master
 -------------- VERSION 6 -----------------
-
+git branch ampliacion
+git checkout ampliacion
+git add .
+git commit -m "modificacion c#"
+git push origin ampliacion
+git checkout master
+git merge ampliacion
