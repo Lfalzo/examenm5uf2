@@ -20,3 +20,12 @@ git add .
 git status -s
 git commit -m "archivo LICENSE"
 git push origin master
+----------- VERSION 3 ---------------
+nano .gitignore
+modificar el gitignore   /*.snl
+git status -s 
+git add .
+git commit -m "archivo .gitignore"
+git push origin master
+-------------- VERSION 4 -----------------
+
