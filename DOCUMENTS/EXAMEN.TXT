@@ -2,6 +2,9 @@
 mkdir examenm5uf2
 cd examenm5uf2/
 nano README.MD
+rellenar la explicacion
+nano COPYLEFT.TXT
+relleno el nombre y el curso
 git init
 git remote add origin URL del repositorio
 git status -s
@@ -47,3 +50,7 @@ git checkout master
 git merge ampliacion
 --------------- VERSION 7 ------------------
 UPS! me adelante este cambio ya lo hice en la version 6
+--------------- VERSION 8 ----------------- 
+git add .
+git commit -m "actualizacion archivo examen.txt"
+git push origin master
