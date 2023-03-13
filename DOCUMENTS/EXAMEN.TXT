@@ -1,0 +1,13 @@
+mkdir examenm5uf2
+cd examenm5uf2/
+nano README.MD
+git init
+git remote add origin URL del repositorio
+git status -s
+git add .
+git status -s
+mkdir DOCUMENTS
+cd DOCUMENTS/
+nano EXAMEN.TXT
+git commit -m "archivo readme y examen"
+git push origin master
