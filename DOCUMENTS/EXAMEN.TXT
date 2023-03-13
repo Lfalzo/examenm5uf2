@@ -45,3 +45,5 @@ git commit -m "modificacion c#"
 git push origin ampliacion
 git checkout master
 git merge ampliacion
+--------------- VERSION 7 ------------------
+UPS! me adelante este cambio ya lo hice en la version 6
